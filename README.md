@@ -94,3 +94,5 @@ http://localhost:5000
 
 - The real `.env` file is intentionally ignored by Git.
 
+## Author 
+- Gadri Wisdom
